@@ -1,5 +1,9 @@
 Podeeezy
 
+NETLIFY APP LINK: 
+
+luxury-axolotl-49242a.netlify.app
+
 Welcome to the Podcast App, nicknamed Podeezy! A React-based web application designed to help users explore, manage, and organize their favorite podcast shows, seasons, and episodes. This app provides features like filtering by genre, sorting by title or update date, and saving favorite episodes for easy access.
 
 Features
